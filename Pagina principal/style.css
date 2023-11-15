@@ -1,0 +1,487 @@
+.primeiroQuadrante {
+    width: 100%;
+    height: 50px;
+    background-color: #58C5EE;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    display: block;
+    margin-bottom: 0px;
+
+}
+
+.cadastrosite {
+
+    color: white;
+    line-height: 0.5;
+    margin: 20px;
+    float: left;
+    transform: translate(2050%, 230%);
+}
+
+.loginsite {
+
+    color: white;
+    line-height: 0.5;
+    margin: 20px;
+    float: left;
+    transform: translate(2500%, 230%);
+
+}
+
+
+.redessociais {
+    color: white;
+    line-height: 0.5;
+    margin: 20px;
+    float: left;
+}
+
+img {
+    float: left;
+    width: 30px;
+    margin-top: 10px;
+
+}
+
+.segundoQuadrante {
+    width: 100%;
+    height: 90px;
+    background-color: #00B2FF;
+    left: 0%;
+    right: 0%;
+    position: absolute;
+    margin-top: 42px;
+    display: inline-block;
+
+}
+
+.titulo1 {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-355%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -25px;
+
+}
+
+.titulo2 {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-650%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 5px;
+}
+
+.nova {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(75%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -29;
+}
+
+.cidades {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(650%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -1px;
+}
+
+.cadastro {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(300%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -1px;
+}
+
+.frase {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #0059DC;
+    font-size: 64px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -40px;
+}
+
+.implements,
+.digital p {
+    display: block;
+    height: px;
+}
+
+.terceiroQuadrante img {
+    width: 967px;
+    height: 486px;
+
+}
+
+.terceiroQuadrante {
+    position: absolute;
+    right: 0%;
+    bottom: 14%;
+
+}
+
+.quartoQuadrante {
+    position: absolute;
+    left: 0%;
+    bottom: 14%;
+    width: 552px;
+    height: 487px;
+    background-color: #8c8c8c;
+    background-attachment: fixed;
+
+}
+
+.quartoQuadrante img {
+    width: 880px;
+    height: 470px;
+}
+
+.frase2 {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-25%, -50%);
+    text-align: center;
+    color: #58C5EE;
+    font-size: 64px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 20px;
+}
+
+.frase3 {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-13%, -50%);
+    text-align: center;
+    color: #0059DC;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 90px;
+}
+
+.quintoQuadrante {
+    width: 100%;
+    height: 649px;
+    background-color: #00B2FF;
+    left: 0%;
+    right: 0%;
+    position: absolute;
+    margin-top: 600px;
+    display: inline-block;
+}
+
+.fraseantiga {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-250%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -200px;
+}
+
+.fraseatual {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(400%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -200px;
+}
+
+.antiga img {
+    height: 310px;
+    width: 410px;
+    top: 60%;
+    left: 40%;
+    transform: translate(43%, -50%);
+    align-items: center;
+    margin-top: 350px;
+
+}
+
+.evolucao img {
+    height: 70px;
+    width: 160px;
+    top: 50%;
+    left: 40%;
+    transform: translate(145%, -50%);
+    align-items: center;
+    margin-top: 350px;
+
+}
+
+.atual img {
+    height: 310px;
+    width: 410px;
+    top: 50%;
+    left: 40%;
+    transform: translate(70%, -50%);
+    align-items: center;
+    margin-top: 350px;
+}
+
+.sextoQuadrante {
+    width: 100%;
+    height: 649px;
+    background-color: white;
+    left: 0%;
+    right: 0%;
+    position: absolute;
+    margin-top: 1240px;
+    display: inline-block;
+}
+
+.tv img {
+    height: 162px;
+    width: 164px;
+    top: 50%;
+    left: 40%;
+    transform: translate(50%, -50%);
+    align-items: center;
+    margin-top: 140px;
+}
+
+.fone img {
+    height: 125px;
+    width: 125px;
+    top: 50%;
+    left: 40%;
+    transform: translate(165%, -50%);
+    align-items: center;
+    margin-top: 140px;
+}
+
+.tv-box img {
+    height: 120px;
+    width: 130px;
+    top: 50%;
+    left: 40%;
+    transform: translate(240%, -50%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.brasil img {
+    height: 129px;
+    width: 125px;
+    top: 50%;
+    left: 40%;
+    transform: translate(350%, -50%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.programacao img {
+    height: 112px;
+    width: 119px;
+    top: 50%;
+    left: 40%;
+    transform: translate(450%, -50%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.texto1 {
+    top: 50%;
+    left: 60%;
+    transform: translate(-40%, -50%);
+    align-items: center;
+    margin-top: 235px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #084EA9;
+}
+
+.texto2 {
+    top: 50%;
+    left: 40%;
+    transform: translate(-22%, -50%);
+    align-items: center;
+    margin-top: -23px;
+    font-size: 19px;
+    font-weight: bold;
+    color: #084EA9;
+}
+
+.texto3 {
+    top: 50%;
+    left: 40%;
+    transform: translate(27%, -235%);
+    align-items: center;
+    font-size: 19px;
+    font-weight: bold;
+    color: #084EA9;
+    margin-top: 100;
+}
+
+.texto4 {
+    margin-top: -65px;
+    font-size: 19px;
+    font-weight: bold;
+    transform: translate(2%, -115%);
+    color: #084EA9;
+    position: relative;
+    left: 130px;
+}
+
+.texto5 {
+    margin-top: -23px;
+    font-size: 19px;
+    font-weight: bold;
+    transform: translate(2%, -115%);
+    color: #084EA9;
+    position: relative;
+    left: 330px;
+}
+
+.satelite img {
+    height: 140px;
+    width: 140px;
+    top: 50%;
+    left: 30%;
+    transform: translate(-53%, -50%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.texto6 {
+    margin-top: -23px;
+    font-size: 19px;
+    font-weight: bold;
+    transform: translate(-62%, 1150%);
+    color: #084EA9;
+    position: relative;
+    left: 330px;
+
+}
+
+.foto123 img {
+
+    height: 140px;
+    width: 140px;
+    top: 50%;
+    left: 30%;
+    transform: translate(40%, -50%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.texto7 {
+
+    margin-top: -23px;
+    font-size: 19px;
+    font-weight: bold;
+    transform: translate(-44%, 1163%);
+    color: #084EA9;
+    position: relative;
+    left: 330px;
+}
+
+.canais img {
+
+    height: 170px;
+    width: 170px;
+    top: 50%;
+    left: 30%;
+    transform: translate(90%, -45%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.texto8 {
+
+    margin-top: -23px;
+    font-size: 19px;
+    font-weight: bold;
+    transform: translate(-28%, 1163%);
+    color: #084EA9;
+    position: relative;
+    left: 330px;
+
+}
+
+.juiz img {
+
+    height: 140px;
+    width: 140px;
+    top: 50%;
+    left: 30%;
+    transform: translate(140%, -45%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.texto9 {
+
+    margin-top: -23px;
+    font-size: 19px;
+    font-weight: bold;
+    transform: translate(-13%, 1163%);
+    color: #084EA9;
+    position: relative;
+    left: 330px;
+}
+
+.wifi img {
+
+    height: 140px;
+    width: 140px;
+    top: 50%;
+    left: 30%;
+    transform: translate(240%, -45%);
+    align-items: center;
+    margin-top: 140px
+}
+
+.texto10 {
+
+
+    margin-top: -23px;
+    font-size: 19px;
+    font-weight: bold;
+    transform: translate(5%, 1163%);
+    color: #084EA9;
+    position: relative;
+    left: 330px;
+}
